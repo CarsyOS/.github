@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CattyOS-removebg-preview.png" alt="CarsyOS Banner" width="800">
+  <img src="CattyOS-removebg-preview.png" alt="CarsyOS Banner">
 </p>
 
 # 🚗 CarsyOS
