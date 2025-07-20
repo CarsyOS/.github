@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CarsyOS/.github/main/banner.png" alt="CarsyOS Banner" width="800">
+  <img src="https://raw.githubusercontent.com/CarsyOS/.github/main/logo.png" alt="CarsyOS Banner" width="800">
 </p>
 
 # 🚗 CarsyOS
